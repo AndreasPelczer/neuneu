@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "866697572036",
+    "project_id": "dieter-d6bc6",
+    "storage_bucket": "dieter-d6bc6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:866697572036:android:fc8412227bec1d0bc1e391",
+        "android_client_info": {
+          "package_name": "com.example.neuneu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHvzxVZPT-VDkONzBHUm3po1ikDVbRRGM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
